@@ -1,0 +1,98 @@
+001
+Samsung Galaxy S23 Ultra 5G 256GB
+Smartphone
+Samsung
+8 GB
+Purple
+1174
+002
+Samsung Galaxy Z Flip4 5G 128GB
+Smartphone
+Samsung
+8 GB
+Purple
+740
+003
+Samsung Galaxy A24 6GB
+Smartphone
+Samsung
+6 GB
+Grey
+256
+004
+Samsung Galaxy S21 FE 5G
+Smartphone
+Samsung
+6 GB
+Light Green
+430
+005
+Nokia G22
+Smartphone
+Nokia
+4 GB
+Blue
+160
+006
+Nokia C21 Plus 32GB
+Smartphone
+Nokia
+3 GB
+Blue
+89
+007
+Nokia C31
+Smartphone
+Nokia
+3 GB
+Light Green
+95
+008
+Nokia 105 4G
+Mobilephone
+Nokia
+48  MB
+Blue
+30
+009
+Nokia 8210 4G
+Mobilephone
+Nokia
+48 MB
+Red
+70
+010
+Nokia 215 4G
+Mobilephone
+Nokia
+64 MB
+Light Green
+45
+011
+Nokia 110 4G
+Mobilephone
+Nokia
+48 MB
+Black
+31
+012
+Iphone 13
+SmartPhone
+Apple
+4 GB
+Blue
+688
+013
+Iphone 14 Pro Max
+Smartphone
+Apple
+6 GB
+Purple
+1175
+014
+Iphone 12
+Smartphone
+Apple
+4GB
+Black
+468
